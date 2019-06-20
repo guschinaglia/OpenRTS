@@ -27,3 +27,6 @@ local.properties
 
 core/nullatlas
 core/nullcover
+/.nb-gradle/
+
+.vscode*
